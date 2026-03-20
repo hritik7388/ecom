@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@types/react-simple-maps": "^3.0.6"
+  }
+}
